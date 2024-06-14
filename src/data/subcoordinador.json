@@ -1,0 +1,201 @@
+{
+  "subcoordinador": {
+    "datos": {
+      "nombre": "Nombre Completo",
+      "cargo": "Número del Cargo",
+      "entidad": "Nombre entidad"
+    },
+    "carreras": [
+      {
+        "idcarrera": "idCarrera1",
+        "nombreCarrera": "Nombre de la Carrera",
+        "modalidad": "EAD",
+        "nombreModalidad": "Nombre de la Modaliad",
+        "tutoria": {
+          "tutoriaActual": {
+            "anio": "2025-1",
+            "asignacion": {
+              "grupos": [
+                {
+                  "idGrupo": "Identificador Grupo",
+                  "tutor": {
+                    "datosTutor": {
+                      "nombre": "Nombre Completo",
+                      "nombramiento": "Número del Cargo",
+                      "entidad": "Nombre entidad"
+                    }
+                  },
+                  "alumnos": [
+                    {
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },
+                    {
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    }
+                  ]
+                },
+                {
+                  "idGrupo": "Identificador Grupo",
+                  "tutor": {
+                    "datosTutor": {
+                      "nombre": "Nombre Completo",
+                      "nombramiento": "Número del Cargo",
+                      "entidad": "Nombre entidad"
+                    }
+                  },
+                  "alumnos": [
+                    {
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },
+                    {
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    }
+                  ]
+                },
+                {
+                  "idGrupo": "Identificador Grupo",
+                  "tutor": {
+                    "datosTutor": {
+                      "nombre": "Nombre Completo",
+                      "nombramiento": "Número del Cargo",
+                      "entidad": "Nombre entidad"
+                    }
+                  },
+                  "alumnos": [
+                    {
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },
+                    {
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    },{
+                      "nombre": "Nombre Completo",
+                      "numeroCuenta": "numeroCuenta",
+                      "semestre": "semestre",
+                      "entidad": "entidad academica",
+                      "carrera": "Nombre Carrera",
+                      "promedio": "promedio actual"
+                    }
+                  ]
+                }
+              ]
+            },
+            "modulos": [
+            ]
+          },
+          "tutoriasAnterirores": [
+          ]
+        }
+      },
+      {
+        "idcarrera": "idCarrera2",
+        "nombreCarrera": "Nombre de la Carrera",
+        "modalidad": "EAD",
+        "nombreModalidad": "Nombre de la Modaliad",
+        "tutoria": {
+          "tutoriaActual": {
+            "anio": "2024-2",
+            "modulos": []
+          }
+        }
+      },
+      {
+        "idcarrera": "idCarrera3",
+        "nombreCarrera": "Nombre de la Carrera",
+        "modalidad": "EAD",
+        "nombreModalidad": "Nombre de la Modaliad",
+        "tutoria": {
+          "tutoriaActual": {
+            "anio": "2024-1",
+            "modulos": []
+          }
+        }
+      }
+    ]
+  }
+}

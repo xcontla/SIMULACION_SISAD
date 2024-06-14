@@ -1,0 +1,595 @@
+{
+  "tutor": {
+    "datos": {
+      "nombre": "PEDRO XAVIER CONTLA ROMERO",
+      "nombramiento": "PROFESOR DE ASIGNATURA 'A'",
+      "entidad": "FACULTAD DE CIENCIAS",
+      "carrera": "CIENCIAS DE LA COMPUTACION"
+    },
+    "tutoria": {
+      "actual": {
+        "anio": "2025-1",
+        "grupal": [
+          {
+            "idGrupo": "20251_A",
+            "listaAlumnos": [
+              {
+                "nombre": "Carlos López Hernández",
+                "numeroCuenta": "861312318",
+                "semestre": 4,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de Datos",
+                "promedio": 6.2
+              },
+              {
+                "nombre": "Gabriela Ramírez Rodríguez",
+                "numeroCuenta": "616615858",
+                "semestre": 8,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de la Computación",
+                "promedio": 10.0
+              },
+              {
+                "nombre": "Gabriela López Sánchez",
+                "numeroCuenta": "983877956",
+                "semestre": 2,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Matemáticas Aplicadas",
+                "promedio": 7.8
+              },
+              {
+                "nombre": "Gabriela López González",
+                "numeroCuenta": "191009865",
+                "semestre": 8,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Matemáticas",
+                "promedio": 9.8
+              },
+              {
+                "nombre": "Valeria González García",
+                "numeroCuenta": "769671862",
+                "semestre": 1,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Matemáticas",
+                "promedio": 6.9
+              },
+              {
+                "nombre": "Gabriela García Pérez",
+                "numeroCuenta": "808799904",
+                "semestre": 8,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de la Computación",
+                "promedio": 7.3
+              },
+              {
+                "nombre": "Laura González Pérez",
+                "numeroCuenta": "122299594",
+                "semestre": 1,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Matemáticas Aplicadas",
+                "promedio": 7.9
+              },
+              {
+                "nombre": "Luis Ramírez Pérez",
+                "numeroCuenta": "638803606",
+                "semestre": 7,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de la Computación",
+                "promedio": 9.3
+              },
+              {
+                "nombre": "Carlos Ramírez Cruz",
+                "numeroCuenta": "160286455",
+                "semestre": 2,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Actuaría",
+                "promedio": 10.0
+              },
+              {
+                "nombre": "Carlos García López",
+                "numeroCuenta": "223498839",
+                "semestre": 3,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Actuaría",
+                "promedio": 7.9
+              }
+            ],
+            "modulos": [
+              {
+                "idModulo": "modulo_m20251_AB",
+                "nombreModulo": "Integración Universitaria",
+                "tipoModulo": "Integración",
+                "fechaInicio": "2024-08-10",
+                "fechaFin": "2024-09-11",
+                "sesiones": [
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": "1",
+                    "fecha": "2024-08-10",
+                    "sesion": "Valores universitarios",
+                    "evaluaciones": {
+                      "evaluacionSesion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el tutor"
+                            }
+                          ]
+                        }
+                      },
+                      "evaluacionAlumno": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "idSesion": "Identificador Módulo",
+                    "numero_sesion": 2,
+                    "sesion": "Nombre de la Sesión",
+                    "fecha": "2024-09-01",
+                    "evaluaciones": {
+                      "evaluacionSesion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el tutor"
+                            }
+                          ]
+                        }
+                      },
+                      "evaluacionAlumno": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "idGrupo": "20251_B",
+            "listaAlumnos": [
+              {
+                "nombre": "María Cruz Cruz",
+                "numeroCuenta": "138351438",
+                "semestre": 8,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de la Computación",
+                "promedio": 7.6
+              },
+              {
+                "nombre": "Ana Hernández González",
+                "numeroCuenta": "351602716",
+                "semestre": 2,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de Datos",
+                "promedio": 8.5
+              },
+              {
+                "nombre": "Laura Martínez Rodríguez",
+                "numeroCuenta": "488590264",
+                "semestre": 3,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Actuaría",
+                "promedio": 8.0
+              },
+              {
+                "nombre": "María Ramírez Martínez",
+                "numeroCuenta": "438620465",
+                "semestre": 6,
+                "entidad": "FACULTAD DE CIENCIAS",
+                "carrera": "Ciencias de Datos",
+                "promedio": 8.2
+              }
+            ],
+            "modulos": [
+              {
+                "idModulo": "modulo_m20251_cd",
+                "fechaInicio": "2024-08-10",
+                "fechaFin": "2024-09-11",
+                "sesiones": [
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": "1",
+                    "fecha": "2024-08-10",
+                    "sesion": "nombre de la sesion",
+                    "evaluaciones": {
+                      "evaluacionSesion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el tutor"
+                            }
+                          ]
+                        }
+                      },
+                      "evaluacionAlumno": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "idSesion": "Identificador Módulo",
+                    "numero_sesion": 2,
+                    "sesion": "Nombre de la Sesión",
+                    "fecha": "2024-09-01",
+                    "evaluaciones": {
+                      "evaluacionSesion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el tutor"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el tutor"
+                            }
+                          ]
+                        }
+                      },
+                      "evaluacionAlumno": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "individual": [
+          {
+            "alumno": {
+              "datos": {
+                "nombre": "Nombre Completo",
+                "numeroCuenta": "Numero de Cuenta",
+                "semestre": "Número del semestre",
+                "entidad": "Nombre entidad",
+                "carrera": "Nombre Carrera",
+                "promedioActual": "Promedio",
+                "tutoriaAnterior": [
+                  {}
+                ]
+              }
+            },
+            "sesiones": [
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": "1",
+                "fecha": "2024-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluaciones": {
+                  "evaluacionSesion": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        }
+                      ]
+                    }
+                  },
+                  "evaluacionAlumno": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": "2",
+                "fecha": "2024-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluaciones": {
+                  "evaluacionSesion": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el tutor",
+                          "respuesta": "Respuesta"
+                        }
+                      ]
+                    }
+                  },
+                  "evaluacionAlumno": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el alumno",
+                          "respuesta": "Respuesta"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "tutoriaAnterior": [
+        {
+          "anio": "2024-2",
+          "grupal": [
+            {
+              "idGrupo": "Identificador del Grupo",
+              "resumen": {
+                "numero_alumnos": 25,
+                "numero_sesiones": 12,
+                "numero_modulos": 4,
+                "resultadoEvaluacion": {
+                  "general": 9,
+                  "modulosesion": [
+                    {
+                      "idModulo": "Identificador Módulo",
+                      "nombreModulo": "Nombre del Módulo",
+                      "sesiones ": [
+                        {
+                          "idSesion": "Identificador Sesion",
+                          "numero_sesion": 1,
+                          "fecha": "2024-08-10",
+                          "sesion": "nombre de la sesion",
+                          "evaluacionSesion": 8
+                        },
+                        {
+                          "idSesion": "Identificador Sesion",
+                          "numero_sesion": 2,
+                          "fecha": "2024-08-10",
+                          "sesion": "nombre de la sesion",
+                          "evaluacionSesion": 10
+                        },
+                        {
+                          "idSesion": "Identificador Sesion",
+                          "numero_sesion": 3,
+                          "fecha": "2024-08-10",
+                          "sesion": "nombre de la sesion",
+                          "evaluacionSesion": 9
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "individual": {
+            "sesiones ": [
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": 1,
+                "fecha": "2024-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluacionSesion": 8
+              },
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": 2,
+                "fecha": "2024-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluacionSesion": 10
+              },
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": 3,
+                "fecha": "2024-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluacionSesion": 9
+              }
+            ]
+          }
+        },
+        {
+          "anio": "2024-1",
+          "grupal": {},
+          "individual": {}
+        }
+      ]
+    }
+  }
+}

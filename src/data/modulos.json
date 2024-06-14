@@ -1,0 +1,245 @@
+{
+  "Módulos": {
+    "INTEGRACIÓN": {
+      "Valores universitarios": {
+        "Descripción": "Fomentar el conocimiento y la adopción de los valores éticos y académicos de la universidad.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo se sienten identificados los estudiantes con los valores universitarios después de la tutoría?",
+          "Encuesta de valores personales y su alineación con los valores universitarios."
+        ]
+      },
+      "Identidad Universitaria": {
+        "Descripción": "Promover el sentido de pertenencia y orgullo por la universidad.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿En qué medida los estudiantes sienten que pertenecen a la comunidad universitaria?",
+          "Evaluación de la percepción de identidad universitaria antes y después de la intervención."
+        ]
+      },
+      "Familiarización con el plantel y servicios": {
+        "Descripción": "Ayudar a los estudiantes a conocer las instalaciones y los servicios disponibles en la universidad.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan familiarizados están los estudiantes con las instalaciones y servicios de la universidad?",
+          "Visitas guiadas y mapas interactivos; evaluación de conocimiento sobre el campus."
+        ]
+      },
+      "Servicios generales y apoyos de la UNAM": {
+        "Descripción": "Informar a los estudiantes sobre los servicios de apoyo disponibles, como bibliotecas, asesorías y programas de apoyo académico.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Conocen los estudiantes los servicios de apoyo disponibles y cómo acceder a ellos?",
+          "Encuestas sobre conocimiento y uso de los servicios generales y apoyos."
+        ]
+      },
+      "Identificación del tutor": {
+        "Descripción": "Facilitar la identificación del tutor asignado y promover una relación de confianza.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Saben los estudiantes quién es su tutor y cómo contactarlo?",
+          "Evaluación de conocimiento sobre el tutor y encuestas sobre la relación con el tutor."
+        ]
+      },
+      "Comunicación con profesorado": {
+        "Descripción": "Fomentar la comunicación efectiva entre los estudiantes y sus profesores.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo describen los estudiantes su comunicación con el profesorado?",
+          "Encuestas sobre la frecuencia y calidad de la comunicación con los profesores."
+        ]
+      },
+      "Trámites básicos": {
+        "Descripción": "Proveer información y asistencia en la realización de trámites académicos básicos, como inscripciones y consultas de calificaciones.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan bien conocen y manejan los estudiantes los trámites académicos básicos?",
+          "Evaluación de conocimiento y práctica en la realización de trámites básicos."
+        ]
+      }
+    },
+    "ESCOLARES": {
+      "Motivación para el estudio": {
+        "Descripción": "Fomentar el interés y la motivación hacia el estudio y el aprendizaje continuo.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo describen los estudiantes su motivación para estudiar después de la tutoría?",
+          "Encuestas de autoevaluación de la motivación para el estudio."
+        ]
+      },
+      "Técnicas y metodologías de estudio": {
+        "Descripción": "Enseñar y fomentar el uso de técnicas efectivas para el estudio y la organización académica.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué técnicas de estudio utilizan los estudiantes y cómo las han mejorado?",
+          "Evaluaciones antes y después de la formación en técnicas de estudio."
+        ]
+      },
+      "Lugar adecuado para el estudio": {
+        "Descripción": "Ayudar a los estudiantes a identificar y crear un espacio adecuado para el estudio.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo describen los estudiantes su lugar de estudio y su adecuación?",
+          "Encuestas y visitas virtuales para evaluar la adecuación del espacio de estudio."
+        ]
+      },
+      "Trabajo en equipo": {
+        "Descripción": "Promover habilidades de colaboración y trabajo en equipo para proyectos académicos.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo evalúan los estudiantes su capacidad para trabajar en equipo?",
+          "Evaluaciones grupales y autoevaluaciones sobre habilidades de trabajo en equipo."
+        ]
+      },
+      "Uso de TICs": {
+        "Descripción": "Capacitar a los estudiantes en el uso de tecnologías de la información y comunicación para fines académicos.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan competentes se sienten los estudiantes en el uso de TICs para el estudio?",
+          "Encuestas sobre competencia en el uso de herramientas tecnológicas."
+        ]
+      },
+      "Conocimiento del plan de estudios y áreas": {
+        "Descripción": "Proveer información detallada sobre el plan de estudios y las áreas de especialización disponibles.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Conocen los estudiantes las áreas de especialización de su carrera?",
+          "Evaluaciones de conocimiento sobre el plan de estudios y opciones académicas."
+        ]
+      },
+      "Trámites escolares": {
+        "Descripción": "Asistir a los estudiantes en la comprensión y realización de trámites escolares específicos.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan bien manejan los estudiantes los trámites escolares necesarios?",
+          "Evaluación de conocimiento y práctica en la realización de trámites escolares."
+        ]
+      }
+    },
+    "PROPÓSITO Y VOCACIÓN": {
+      "Proyecto y sentido de vida": {
+        "Descripción": "Ayudar a los estudiantes a definir sus objetivos de vida y metas a largo plazo.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo describen los estudiantes su proyecto de vida y metas a largo plazo?",
+          "Encuestas sobre claridad y definición del proyecto de vida."
+        ]
+      },
+      "Identidad profesional": {
+        "Descripción": "Fomentar la comprensión y desarrollo de la identidad profesional en los estudiantes.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿En qué medida se sienten los estudiantes identificados con su futura profesión?",
+          "Encuestas sobre percepción de identidad profesional."
+        ]
+      },
+      "Habilidades para la toma de decisiones": {
+        "Descripción": "Desarrollar habilidades de toma de decisiones en contextos personales y profesionales.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan confiados se sienten los estudiantes en su capacidad para tomar decisiones importantes?",
+          "Evaluaciones de casos y autoevaluaciones sobre la toma de decisiones."
+        ]
+      },
+      "Autoconocimiento": {
+        "Descripción": "Promover el autoconocimiento para identificar fortalezas, debilidades y áreas de mejora.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo describen los estudiantes su nivel de autoconocimiento?",
+          "Autoevaluaciones y encuestas sobre autoconocimiento."
+        ]
+      }
+    },
+    "PROFESIONALES": {
+      "Habilidades de trabajo en equipo": {
+        "Descripción": "Desarrollar la capacidad de colaborar efectivamente en entornos profesionales.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo califican los estudiantes su habilidad para trabajar en equipo en un contexto profesional?",
+          "Evaluaciones de proyectos en equipo y autoevaluaciones."
+        ]
+      },
+      "Comunicación profesional": {
+        "Descripción": "Enseñar técnicas de comunicación eficaz en entornos laborales.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan competentes se sienten los estudiantes en la comunicación profesional?",
+          "Evaluaciones de competencias de comunicación y feedback de simulaciones."
+        ]
+      },
+      "Elaboración de CV": {
+        "Descripción": "Proporcionar herramientas y técnicas para la elaboración de un currículo efectivo.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo evalúan los estudiantes la calidad de su CV?",
+          "Evaluaciones de CV y talleres de retroalimentación."
+        ]
+      },
+      "Búsqueda de empleo": {
+        "Descripción": "Guiar a los estudiantes en la búsqueda activa y efectiva de oportunidades laborales.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan preparados se sienten los estudiantes para buscar empleo?",
+          "Encuestas sobre conocimientos y habilidades en la búsqueda de empleo."
+        ]
+      },
+      "Práctica profesional": {
+        "Descripción": "Facilitar el acceso y la participación en prácticas profesionales.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cuántos estudiantes han participado en prácticas profesionales y cómo evalúan la experiencia?",
+          "Encuestas y registros de participación en prácticas profesionales."
+        ]
+      },
+      "Servicio social": {
+        "Descripción": "Informar y guiar a los estudiantes en la realización de su servicio social.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan informados se sienten los estudiantes sobre las opciones de servicio social?",
+          "Evaluaciones sobre el conocimiento y la participación en el servicio social."
+        ]
+      },
+      "Proyecto de titulación": {
+        "Descripción": "Asistir a los estudiantes en la planificación y ejecución de su proyecto de titulación.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan avanzados están los estudiantes en su proyecto de titulación?",
+          "Encuestas sobre el progreso en proyectos de titulación y talleres de orientación."
+        ]
+      }
+    },
+    "SOCIOAFECTIVOS": {
+      "Iniciar, mantener relaciones": {
+        "Descripción": "Desarrollar habilidades para iniciar y mantener relaciones saludables.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo califican los estudiantes su capacidad para iniciar y mantener relaciones interpersonales?",
+          "Encuestas sobre habilidades interpersonales y talleres de práctica."
+        ]
+      },
+      "Regularse emocionalmente": {
+        "Descripción": "Promover habilidades para la regulación emocional en situaciones diversas.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan competentes se sienten los estudiantes en la regulación de sus emociones?",
+          "Evaluaciones de casos y autoevaluaciones sobre regulación emocional."
+        ]
+      },
+      "Tolerar el malestar y la incertidumbre": {
+        "Descripción": "Enseñar estrategias para manejar la incertidumbre y el malestar emocional.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo manejan los estudiantes la incertidumbre y situaciones de malestar?",
+          "Encuestas sobre manejo de la incertidumbre y talleres de resiliencia."
+        ]
+      },
+      "Efectividad interpersonal y asertividad": {
+        "Descripción": "Fomentar la comunicación efectiva y la asertividad en las relaciones interpersonales.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan efectivos se sienten los estudiantes en su comunicación interpersonal?",
+          "Evaluaciones de habilidades interpersonales y talleres de asertividad."
+        ]
+      },
+      "Manejo del estrés": {
+        "Descripción": "Proporcionar herramientas y técnicas para la gestión del estrés.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo evalúan los estudiantes su capacidad para manejar el estrés?",
+          "Encuestas sobre manejo del estrés y talleres de técnicas de relajación."
+        ]
+      },
+      "Recreación y actividades extracurriculares": {
+        "Descripción": "Fomentar la participación en actividades recreativas y extracurriculares.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué tan activamente participan los estudiantes en actividades recreativas?",
+          "Encuestas sobre participación en actividades extracurriculares."
+        ]
+      },
+      "Autocuidado": {
+        "Descripción": "Enseñar la importancia del autocuidado en la vida personal y académica.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Qué prácticas de autocuidado llevan a cabo los estudiantes?",
+          "Encuestas sobre hábitos de autocuidado y talleres de salud personal."
+        ]
+      },
+      "Autoestima": {
+        "Descripción": "Promover la autoestima y la confianza personal en los estudiantes.",
+        "PosiblesPreguntasOFormasDeEvaluación": [
+          "¿Cómo describen los estudiantes su nivel de autoestima después de la tutoría?",
+          "Evaluaciones de autoestima y talleres de fortalecimiento personal."
+        ]
+      }
+    }
+  }
+}

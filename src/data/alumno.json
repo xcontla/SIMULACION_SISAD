@@ -1,0 +1,1236 @@
+{
+  "alumno": {
+    "datos": {
+      "nombre": "Gabriela García Pérez",
+      "numeroCuenta": "808799904",
+      "semestre": 8,
+      "entidad": "FACULTAD DE CIENCIAS",
+      "carrera": "Ciencias de la Computación",
+      "promedio": 7.3
+    },
+    "tutoria": {
+      "actual": {
+        "anio": "2025-1",
+        "tutor": {
+          "datosTutor": {
+            "nombre": "PEDRO XAVIER CONTLA ROMERO",
+            "nombramiento": "PROFESOR DE ASIGNATURA 'A'",
+            "entidad": "FACULTAD DE CIENCIAS",
+            "carrera": "CIENCIAS DE LA COMPUTACION"
+          }
+        },
+        "grupal": {
+          "grupo": "20251_A",
+          "modulos": [
+            {
+              "idModulo": "modulo_m20251_AB",
+              "nombreModulo": "Integración Universitaria",
+              "tipoModulo": "Integración",
+              "fechaInicio": "2024-08-10",
+              "fechaFin": "2024-09-11",
+              "sesiones": [
+                {
+                  "idSesion": "s001",
+                  "numero_sesion": 1,
+                  "fecha": "2024-08-10",
+                  "sesion": "Valores universitarios",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "2",
+                            "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "3",
+                            "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "4",
+                            "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "5",
+                            "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                            "respuesta": ""
+                          }
+                        ]
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿Cómo se sienten identificados los estudiantes con los valores universitarios después de la tutoría",
+                            "respuesta": ""
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Encuesta de valores personales y su alineación con los valores universitarios.",
+                            "respuesta": ""
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "idSesion": "s002",
+                  "numero_sesion": 2,
+                  "sesion": "Identidad Universitaria",
+                  "fecha": "2024-09-01",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "2",
+                            "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "3",
+                            "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "4",
+                            "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "5",
+                            "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                            "respuesta": ""
+                          }
+                        ]
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿En qué medida sientes que pertenecen a la comunidad universitaria?",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Evaluación de la percepción de identidad universitaria antes y después de la intervención.",
+                            "respuesta": "Respuesta"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "idSesion": "s003",
+                  "numero_sesion": 3,
+                  "sesion": "Familiarización con el plantel y servicios",
+                  "fecha": "2024-09-01",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "2",
+                            "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "3",
+                            "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "4",
+                            "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "5",
+                            "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                            "respuesta": ""
+                          }
+                        ]
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": false,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿Qué tan familiarizados estás con las instalaciones y servicios de la universidad?",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Visitas guiadas y mapas interactivos; evaluación de conocimiento sobre el campus.",
+                            "respuesta": "Respuesta"
+                          }
+                          
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "nombreModulo": " Habilidades Escolares y Académicas",
+              "idModulo": "modulo_m20251_BC",
+              "tipoModulo": "Habilidades",
+              "fechaInicio": "2024-08-10",
+              "fechaFin": "2024-09-11",
+              "sesiones": [
+                {
+                  "idSesion": "s004",
+                  "numero_sesion": "1",
+                  "fecha": "2024-08-10",
+                  "sesion": "Motivación para el estudio",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "2",
+                            "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "3",
+                            "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "4",
+                            "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "5",
+                            "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                            "respuesta": ""
+                          }
+                        ]
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el alumno"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "idSesion": "s005",
+                  "numero_sesion": 2,
+                  "sesion": "Técnicas y metodologías de estudio",
+                  "fecha": "2024-09-01",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "2",
+                            "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "3",
+                            "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "4",
+                            "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                            "respuesta": ""
+                          },
+                          
+                          {
+                            "numero": "5",
+                            "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                            "respuesta": ""
+                          }
+                        ]
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "individual": {
+          "sesiones": [
+            {
+              "idSesion": "si001",
+              "numero_sesion": "1",
+              "fecha": "2024-08-10",
+              "sesion": "Autoestima",
+              "evaluaciones": {
+                "evaluacionTutor": {
+                  "evaluado": true,
+                  "evaluacion": {
+                    "preguntas": [
+                      {
+                        "numero": "1",
+                        "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "2",
+                        "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "3",
+                        "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "4",
+                        "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "5",
+                        "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                        "respuesta": ""
+                      }
+                    ]
+                  }
+                },
+                "autoevaluacion": {
+                  "evaluado": true,
+                  "evaluacion": {
+                    "preguntas": [
+                      {
+                        "numero": "1",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      },
+                      {
+                        "numero": "2",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      },
+                      {
+                        "numero": "3",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      },
+                      {
+                        "numero": "4",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "idSesion": "si002",
+              "numero_sesion": "2",
+              "fecha": "2024-08-10",
+              "sesion": "Matemáticas",
+              "evaluaciones": {
+                "evaluacionTutor": {
+                  "evaluado": true,
+                  "evaluacion": {
+                    "preguntas": [
+                      {
+                        "numero": "1",
+                        "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "2",
+                        "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "3",
+                        "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "4",
+                        "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                        "respuesta": ""
+                      },
+                      
+                      {
+                        "numero": "5",
+                        "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                        "respuesta": ""
+                      }
+                    ]
+                  }
+                },
+                "autoevaluacion": {
+                  "evaluado": true,
+                  "evaluacion": {
+                    "preguntas": [
+                      {
+                        "numero": "1",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      },
+                      {
+                        "numero": "2",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      },
+                      {
+                        "numero": "3",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      },
+                      {
+                        "numero": "4",
+                        "pregunta": "Pregunta sobre el alumno",
+                        "respuesta": "Respuesta"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "tutoriasAnteriores": [
+        {
+          "anio": "2024-2",
+          "tutor": {
+            "datosTutor": {
+              "nombre": "Nombre Completo",
+              "entidad": "Nombre entidad",
+              "carrera": "Nombre Carrera"
+            }
+          },
+          "grupal": {
+            "grupo": "Número del grupo",
+            "modulos": [
+              {
+                "nombreModulo": "Nombre Modulo",
+                "idModulo": "Identificador Módulo",
+                "tipoModulo": "TipoModulo",
+                "fechaInicio": "2024-08-10",
+                "fechaFin": "2024-09-11",
+                "sesiones": [
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": "1",
+                    "fecha": "2024-08-10",
+                    "sesion": "nombre de la sesion",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      },
+                      "autoevaluacion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "idSesion": "Identificador Módulo",
+                    "numero_sesion": 2,
+                    "sesion": "nombre de la sesion",
+                    "fecha": "2024-09-01",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      },
+                      "autoevaluacion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "nombreModulo": "Nombre Modulo",
+                "idModulo": "Identificador Módulo",
+                "tipoModulo": "TipoModulo",
+                "fechaInicio": "2024-08-10",
+                "fechaFin": "2024-09-11",
+                "sesiones": [
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": "1",
+                    "fecha": "2024-08-10",
+                    "sesion": "nombre de la sesion",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        },
+                        "autoevaluacion": {
+                          "evaluado": true,
+                          "evaluacion": {
+                            "preguntas": [
+                              {
+                                "numero": "1",
+                                "pregunta": "Pregunta sobre el alumno"
+                              },
+                              {
+                                "numero": "2",
+                                "pregunta": "Pregunta sobre el alumno",
+                                "respuesta": "Respuesta"
+                              },
+                              {
+                                "numero": "3",
+                                "pregunta": "Pregunta sobre el alumno",
+                                "respuesta": "Respuesta"
+                              },
+                              {
+                                "numero": "4",
+                                "pregunta": "Pregunta sobre el alumno",
+                                "respuesta": "Respuesta"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": 2,
+                    "sesion": "nombre de la sesion",
+                    "fecha": "2024-09-01",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "individual": {
+            "sesiones": [
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": "1",
+                "fecha": "2024-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluaciones": {
+                  "evaluacionTutor": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "2",
+                          "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "3",
+                          "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "4",
+                          "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "5",
+                          "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                          "respuesta": ""
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "anio": "2024-2",
+          "tutor": {
+            "datosTutor": {
+              "nombre": "Nombre Completo",
+              "entidad": "Nombre entidad",
+              "carrera": "Nombre Carrera"
+            }
+          },
+          "grupal": {
+            "grupo": "Número del grupo",
+            "modulos": [
+              {
+                "nombreModulo": "Nombre Modulo",
+                "idModulo": "Identificador Módulo",
+                "tipoModulo": "TipoModulo",
+                "fechaInicio": "2024-08-10",
+                "fechaFin": "2024-09-11",
+                "sesiones": [
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": "1",
+                    "fecha": "2024-08-10",
+                    "sesion": "nombre de la sesion",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      },
+                      "autoevaluacion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "idSesion": "Identificador Módulo",
+                    "numero_sesion": 2,
+                    "sesion": "nombre de la sesion",
+                    "fecha": "2024-09-01",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas":[
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      },
+                      "autoevaluacion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "nombreModulo": "Nombre Modulo",
+                "idModulo": "Identificador Módulo",
+                "tipoModulo": "TipoModulo",
+                "fechaInicio": "2024-08-10",
+                "fechaFin": "2024-09-11",
+                "sesiones": [
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": "1",
+                    "fecha": "2024-08-10",
+                    "sesion": "nombre de la sesion",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      },
+                      "autoevaluacion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno",
+                              "respuesta": "Respuesta"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "idSesion": "Identificador Sesion",
+                    "numero_sesion": 2,
+                    "sesion": "nombre de la sesion",
+                    "fecha": "2024-09-01",
+                    "evaluaciones": {
+                      "evaluacionTutor": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "2",
+                              "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "3",
+                              "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "4",
+                              "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                              "respuesta": ""
+                            },
+                            
+                            {
+                              "numero": "5",
+                              "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                              "respuesta": ""
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "autoevaluacion": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el alumno",
+                            "respuesta": "Respuesta"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "individual": {
+            "sesiones": [
+              {
+                "idSesion": "Identificador Sesion",
+                "numero_sesion": "1",
+                "fecha": "2023-08-10",
+                "sesion": "nombre de la sesion",
+                "evaluaciones": {
+                  "evaluacionTutor": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "¿El tutor explica los conceptos de manera clara y comprensible?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "2",
+                          "pregunta": "¿El tutor utiliza métodos de enseñanza que se adaptan a tu estilo de aprendizaje?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "3",
+                          "pregunta": "¿El tutor llega a las sesiones preparado y con un plan claro?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "4",
+                          "pregunta": "¿El tutor fomenta un ambiente abierto y cómodo para hacer preguntas?",
+                          "respuesta": ""
+                        },
+                        
+                        {
+                          "numero": "5",
+                          "pregunta": "¿El tutor adapta sus métodos y materiales para abordar tus necesidades específicas?",
+                          "respuesta": ""
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

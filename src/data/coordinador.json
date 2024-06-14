@@ -1,0 +1,676 @@
+{
+  "coordinador": {
+    "datos": {
+      "nombre": "Nombre Completo",
+      "cargo": "Número del Cargo",
+      "entidad": "Nombre entidad"
+    },
+    "carreras": [
+      {
+        "idcarrera": "idCarrera1",
+        "nombreCarrera": "Nombre de la Carrera",
+        "modalidad": "EAD",
+        "nombreModalidad": "Nombre de la Modaliad",
+        "subcoordinador": "Nombre del SubCoordinador",
+        "tutoria": {
+          "tutoriaActual": {
+            "anio": "2025-1",
+            "asignacion": {
+                "grupos": [
+                  {
+                    "idGrupo" : "Identificador Grupo", 
+                    "tutor": {
+                      "datosTutor": {
+                        "nombre": "Nombre Completo",
+                        "nombramiento": "Número del Cargo",
+                        "entidad": "Nombre entidad"
+                      }
+                    },
+                    "alumnos" : [
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      }
+                    ]
+                  },
+                  {
+                    "idGrupo" : "Identificador Grupo", 
+                    "tutor": {
+                      "datosTutor": {
+                        "nombre": "Nombre Completo",
+                        "nombramiento": "Número del Cargo",
+                        "entidad": "Nombre entidad"
+                      }
+                    },
+                    "alumnos" : [
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      }
+                    ]
+                  },
+                  {
+                    "idGrupo" : "Identificador Grupo", 
+                    "tutor": {
+                      "datosTutor": {
+                        "nombre": "Nombre Completo",
+                        "nombramiento": "Número del Cargo",
+                        "entidad": "Nombre entidad"
+                      }
+                    },
+                    "alumnos" : [
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      }
+                    ]
+                  }
+
+                ]
+              },
+            "modulos": [
+              {
+              "idModulo": "Identificador Módulo",
+              "tipoModuulo": "TipoModulo",
+              "fechaInicio": "2024-08-10",
+              "fechaFin": "2024-09-11",              
+              "sesiones": [
+                {
+                  "idSesion": "Identificador Sesion",
+                  "numero_sesion": "1",
+                  "fecha": "2024-08-10",
+                  "sesion": "nombre de la sesion",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el tutor"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "autoevaluacion": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el alumno"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "idSesion": "Identificador Módulo",
+                  "numero_sesion": 2,
+                  "sesion": "nombre de la sesion",
+                  "fecha": "2024-09-01",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el tutor"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "autoevaluacion": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el alumno"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "idModulo": "Identificador Módulo",
+              "tipoModuulo": "TipoModulo",
+              "fechaInicio": "2024-08-10",
+              "fechaFin": "2024-09-11",              
+              "sesiones": [
+                {
+                  "idSesion": "Identificador Sesion",
+                  "numero_sesion": "1",
+                  "fecha": "2024-08-10",
+                  "sesion": "nombre de la sesion",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el tutor"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "autoevaluacion": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el alumno"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "idSesion": "Identificador Módulo",
+                  "numero_sesion": 2,
+                  "sesion": "nombre de la sesion",
+                  "fecha": "2024-09-01",
+                  "evaluaciones": {
+                    "evaluacionTutor": {
+                      "evaluado": true,
+                      "evaluacion": {
+                        "preguntas": [
+                          {
+                            "numero": "1",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "2",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "3",
+                            "pregunta": "Pregunta sobre el tutor"
+                          },
+                          {
+                            "numero": "4",
+                            "pregunta": "Pregunta sobre el tutor"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "autoevaluacion": {
+                    "evaluado": true,
+                    "evaluacion": {
+                      "preguntas": [
+                        {
+                          "numero": "1",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "2",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "3",
+                          "pregunta": "Pregunta sobre el alumno"
+                        },
+                        {
+                          "numero": "4",
+                          "pregunta": "Pregunta sobre el alumno"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+            "tutoriasAnterirores": [
+              {
+                "anio": "2024-2",
+                "asignacion": {
+                "grupos": [
+                  {
+                    "idGrupo" : "Identificador Grupo", 
+                    "tutor": {
+                      "datosTutor": {
+                        "nombre": "Nombre Completo",
+                        "nombramiento": "Número del Cargo",
+                        "entidad": "Nombre entidad"
+                      }
+                    },
+                    "alumnos" : [
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      }
+                    ]
+                  },
+                  {
+                    "idGrupo" : "Identificador Grupo", 
+                    "tutor": {
+                      "datosTutor": {
+                        "nombre": "Nombre Completo",
+                        "nombramiento": "Número del Cargo",
+                        "entidad": "Nombre entidad"
+                      }
+                    },
+                    "alumnos" : [
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      }
+                    ]
+                  },
+                  {
+                    "idGrupo" : "Identificador Grupo", 
+                    "tutor": {
+                      "datosTutor": {
+                        "nombre": "Nombre Completo",
+                        "nombramiento": "Número del Cargo",
+                        "entidad": "Nombre entidad"
+                      }
+                    },
+                    "alumnos" : [
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      },
+                      {
+                        "idAlumno" : "identificador de alumno",
+                        "nombre": "Nombre Completo",
+                        "semestre": "Número del semestre",
+                        "entidad" : "Nombre entidad",
+                        "carrera": "Nombre Carrera",
+                        "promedioActual": "Promedio"
+                      }
+                    ]
+                  }
+
+                ]
+              },
+                "modulos": {
+                  "idModulo": "Identificador Módulo",
+                  "fechaInicio": "Fecha Inicio",
+                  "fechaFin": "Fecha Fin",
+                  "sesiones": [
+                    {
+                      "idSesion": "Identificador Módulo",
+                      "numero_sesion": "1",
+                      "fecha": "Fecha Inicio Sesion",
+                      "sesion": "nombre de la sesion",
+                      "evaluaciones": {
+                        "evaluacionTutor": {
+                          "evaluacion": {
+                            "preguntas": [
+                              {
+                                "numero": "1",
+                                "pregunta": "Pregunta sobre el tutor"
+                              },
+                              {
+                                "numero": "2",
+                                "pregunta": "Pregunta sobre el tutor"
+                              },
+                              {
+                                "numero": "3",
+                                "pregunta": "Pregunta sobre el tutor"
+                              },
+                              {
+                                "numero": "4",
+                                "pregunta": "Pregunta sobre el tutor"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "autoevaluacion": {
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "idSesion": "Identificador Módulo",
+                      "numero_sesion": 2,
+                      "sesion": "nombre de la sesion",
+                      "fecha": "2024-09-01",
+                      "evaluaciones": {
+                        "evaluacionTutor": {
+                          "idEvaluacion": "Identificar evaluacion",
+                          "evaluado": true,
+                          "evaluacion": {
+                            "preguntas": [
+                              {
+                                "numero": "1",
+                                "pregunta": "Pregunta sobre el tutor"
+                              },
+                              {
+                                "numero": "2",
+                                "pregunta": "Pregunta sobre el tutor"
+                              },
+                              {
+                                "numero": "3",
+                                "pregunta": "Pregunta sobre el tutor"
+                              },
+                              {
+                                "numero": "4",
+                                "pregunta": "Pregunta sobre el tutor"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      "autoevaluacion": {
+                        "idEvaluacion": "Identificar autoevaluacion",
+                        "evaluado": true,
+                        "evaluacion": {
+                          "preguntas": [
+                            {
+                              "numero": "1",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "2",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "3",
+                              "pregunta": "Pregunta sobre el alumno"
+                            },
+                            {
+                              "numero": "4",
+                              "pregunta": "Pregunta sobre el alumno"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "idcarrera": "idCarrera2",
+        "nombreCarrera": "Nombre de la Carrera",
+        "modalidad": "EAD",
+        "nombreModalidad": "Nombre de la Modaliad",
+        "subcoordinador": "Nombre del SubCoordinador",
+        "tutoria": {
+          "tutoriaActual": {
+            "anio": "2025-1",
+            "modulos": []
+          }
+        }
+      },
+      {
+        "idcarrera": "idCarrera3",
+        "nombreCarrera": "Nombre de la Carrera",
+        "modalidad": "EAD",
+        "nombreModalidad": "Nombre de la Modaliad",
+        "subcoordinador": "Nombre del SubCoordinador",
+        "tutoria": {
+          "tutoriaActual": {
+            "anio": "2025-1",
+            "modulos": []
+          }
+        }
+      }
+    ]
+  }
+}
